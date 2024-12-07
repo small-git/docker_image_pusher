@@ -1,3 +1,2 @@
-logstash:7.17.0
-apache/skywalking-oap-server:10.0.1-java21
-apache/skywalking-ui:10.0.1
+docker.elastic.co/elasticsearch/elasticsearch:7.17.0
+kibana:7.17.5
