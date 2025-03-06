@@ -1,1 +1,1 @@
-rockchin/langbot:latest
+ppkby/php-fpm71
