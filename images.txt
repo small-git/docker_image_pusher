@@ -1,1 +1,2 @@
-ppkby/php-fpm71
+skywalking-oap-server:9.7.0
+skywalking-ui:9.7.0
