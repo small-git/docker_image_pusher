@@ -1,2 +1,2 @@
-skywalking-oap-server:9.7.0
-skywalking-ui:9.7.0
+docker.io/apache/skywalking-oap-server:9.7.0
+docker.io/apache/skywalking-ui:9.7.0
