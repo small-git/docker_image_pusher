@@ -1,1 +1,1 @@
-guiji2025/heygem.ai:latest
+ubuntu:22.04
