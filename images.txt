@@ -1,1 +1,1 @@
-crawlabteam/crawlab
+mongo:4.2
