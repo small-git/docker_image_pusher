@@ -1,2 +1,2 @@
 postgres:15
-redis:7-alpin
+redis:5
