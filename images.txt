@@ -1,1 +1,1 @@
-bellsoft/liberica-runtime-container:jre-21-glibc
+node:20-alpine
