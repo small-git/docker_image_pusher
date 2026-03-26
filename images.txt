@@ -1,2 +1,1 @@
-hanchuanchuan/goinception
-hhyo/archery:v1.13.0
+getmeili/meilisearch:v1.40.0
