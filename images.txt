@@ -1,2 +1,2 @@
-postgres:16
 sonarqube:community
+
